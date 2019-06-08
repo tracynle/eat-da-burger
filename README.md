@@ -20,7 +20,7 @@ Implementing **Model**, **View**, and **Controllers** (MVC) are helpful by separ
     - The npm install may take a moment
 
 5. To run the app locally: 
-`node server.js` 
+`node server.js` or `npm start`
 
 ## Comprehension:
 This project helped me understand how to:
