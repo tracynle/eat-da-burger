@@ -1,4 +1,4 @@
-# eat-da-burger
+# :hamburger: eat-da-burger :hamburger:
 
 ![Gif](public/assets/images/bobsgif.gif)
 
@@ -7,6 +7,7 @@ This application logs user's burger creations. Enter your creation and the text 
 
 Implementing **Model**, **View**, and **Controllers** (MVC) are helpful by separating your files into categories. **Model** is the data layer of the application which contains your schemas in MySQL. **View** handles client-side rendering in which we use Handlebars. Then the **Controller** handles the user's input and interacts with the **Model** to create, read, update, and delete data (CRUD). Separating client-side and server-side routes help target any specific errors you may have. If there comes a time you may need to migrate you database into another, you would simply have to update the ORM. 
 
+## :hamburger: View on app [Heroku](https://peaceful-garden-48232.herokuapp.com/burgers) :hamburger:
 ## Installation
 
 1. Decide where you would like to clone the project. 
@@ -22,6 +23,7 @@ Implementing **Model**, **View**, and **Controllers** (MVC) are helpful by separ
 
 5. To run the app locally: 
 `node server.js` or `npm start`
+
 
 ## Comprehension:
 This project helped me understand how to:
@@ -39,5 +41,3 @@ This project helped me understand how to:
 * Javascript
 * HTML/CSS
 * Bootstrap
-
-## Deployed on Heroku: [link](  )
