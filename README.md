@@ -8,7 +8,7 @@ This application logs user's burger creations. Enter your creation and the text 
 Implementing **Model**, **View**, and **Controllers** (MVC) are helpful by separating your files into categories. **Model** is the data layer of the application which contains your schemas in MySQL. **View** handles client-side rendering in which we use Handlebars. Then the **Controller** handles the user's input and interacts with the **Model** to create, read, update, and delete data (CRUD). Separating client-side and server-side routes help target any specific errors you may have. If there comes a time you may need to migrate you database into another, you would simply have to update the ORM. 
 
 ## :hamburger: View on app [Heroku](https://peaceful-garden-48232.herokuapp.com/burgers) :hamburger:
-## Installation
+## Or Install Locally
 
 1. Decide where you would like to clone the project. 
 2. Run this command in the terminal:
