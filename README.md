@@ -2,6 +2,7 @@
 
 ![Gif](public/assets/images/bobsgif.gif)
 
+## How it Works
 This application logs user's burger creations. Enter your creation and the text is shown on the left column. If you want, you can 'Devour it' by clicking on the button, and it will be moved onto the right side. The logic behind this is by implementing it in the orm.js file. **Object Relational Mapping** (ORM) converts data between relational databases which creates resuable methods for querying our databases. 
 
 Implementing **Model**, **View**, and **Controllers** (MVC) are helpful by separating your files into categories. **Model** is the data layer of the application which contains your schemas in MySQL. **View** handles client-side rendering in which we use Handlebars. Then the **Controller** handles the user's input and interacts with the **Model** to create, read, update, and delete data (CRUD). Separating client-side and server-side routes help target any specific errors you may have. If there comes a time you may need to migrate you database into another, you would simply have to update the ORM. 

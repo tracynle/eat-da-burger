@@ -11,10 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/tracynle/eat-da-burger.git"
   },
-  "keywords": [
-    "express-handlebars",
-    "mysql"
-  ],
   "author": "Tracy",
   "license": "ISC",
   "bugs": {
